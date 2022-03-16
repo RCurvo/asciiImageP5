@@ -1,6 +1,11 @@
-html, body {
+html, body,div {
   margin: 0;
   padding: 0;
+  background-color: black;
+  font-family: 'Courier';
+  color: #FFF;
+  font-size: 3pt;
+
 }
 
 canvas {
